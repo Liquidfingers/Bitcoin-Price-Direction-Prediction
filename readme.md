@@ -122,7 +122,7 @@ The analysis focused on data quality, target distribution, feature relationships
 ## 📈 Class Distribution
 
 <p align="center">
-  <img src="chart_images/Target Distribution.png" width="700">
+  <img src="chart_images/Target Distributon.png" width="700">
 </p>
 
 ### Observation
